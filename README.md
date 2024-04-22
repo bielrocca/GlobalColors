@@ -7,3 +7,7 @@
 <img src="img/GlobalColorsREAD2.PNG" />
 
 - RBDev (Rocca & Biel Company.)
+
+
+<h2>Projeto publicando no Vercel:</h2>
+- link: https://global-colors.vercel.app/
